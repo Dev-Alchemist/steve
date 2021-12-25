@@ -56,7 +56,7 @@ export default function Hero() {
               Steve Waweru.
             </Text>
             <Text fontSize="md" lineHeight={1.1} letterSpacing="wider">
-              I am a software developer specializing in building mobile apps and with
+              I am a software developer specializing in building mobile apps and
               web applications using modern tools and technologies. I am currently seeking
               an internship/employment as a software engineer.
             </Text>
