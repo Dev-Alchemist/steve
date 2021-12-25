@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/steve/static/js/main.30c7e7a7.chunk.js",
+    "main.js.map": "/steve/static/js/main.30c7e7a7.chunk.js.map",
+    "runtime-main.js": "/steve/static/js/runtime-main.9ec434b9.js",
+    "runtime-main.js.map": "/steve/static/js/runtime-main.9ec434b9.js.map",
+    "static/js/2.4e82ad55.chunk.js": "/steve/static/js/2.4e82ad55.chunk.js",
+    "static/js/2.4e82ad55.chunk.js.map": "/steve/static/js/2.4e82ad55.chunk.js.map",
+    "static/js/3.bbf1d53d.chunk.js": "/steve/static/js/3.bbf1d53d.chunk.js",
+    "static/js/3.bbf1d53d.chunk.js.map": "/steve/static/js/3.bbf1d53d.chunk.js.map",
+    "index.html": "/steve/index.html",
+    "static/js/2.4e82ad55.chunk.js.LICENSE.txt": "/steve/static/js/2.4e82ad55.chunk.js.LICENSE.txt",
+    "static/media/finder.c88d07e1.jpg": "/steve/static/media/finder.c88d07e1.jpg",
+    "static/media/home.4f8a2c06.png": "/steve/static/media/home.4f8a2c06.png",
+    "static/media/homeImg.9721f4b2.png": "/steve/static/media/homeImg.9721f4b2.png",
+    "static/media/logo.350e8433.svg": "/steve/static/media/logo.350e8433.svg",
+    "static/media/netflix.7a23d819.jpg": "/steve/static/media/netflix.7a23d819.jpg",
+    "static/media/shot1.c84b9fd1.png": "/steve/static/media/shot1.c84b9fd1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec434b9.js",
+    "static/js/2.4e82ad55.chunk.js",
+    "static/js/main.30c7e7a7.chunk.js"
+  ]
+}
