@@ -71,7 +71,7 @@ export default function Hero() {
               target="_blank"
               rel="noopener"
               href={
-                'https://drive.google.com/file/d/178sYRyYAD1zfOFXK8s0c_JfloOtfI2jx/view?usp=sharing'
+                'https://drive.google.com/file/d/1jJ-eA-k1VUOBv4kG3u-rMUdR4hrP6cyg/view?usp=sharing'
               }
               _hover={{ textDecoration: 'none' }}
             >
