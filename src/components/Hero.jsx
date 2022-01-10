@@ -67,18 +67,18 @@ export default function Hero() {
                 My projects
               </Button>
             </HashLink>
-            <Link
-              target="_blank"
-              rel="noopener"
-              href={
-                'https://drive.google.com/file/d/1jJ-eA-k1VUOBv4kG3u-rMUdR4hrP6cyg/view?usp=sharing'
-              }
-              _hover={{ textDecoration: 'none' }}
-            >
-              <Button variant="solid" size="md">
-                Resume
-              </Button>
-            </Link>
+//             <Link
+//               target="_blank"
+//               rel="noopener"
+//               href={
+//                 'https://drive.google.com/file/d/1jJ-eA-k1VUOBv4kG3u-rMUdR4hrP6cyg/view?usp=sharing'
+//               }
+//               _hover={{ textDecoration: 'none' }}
+//             >
+//               <Button variant="solid" size="md">
+//                 Resume
+//               </Button>
+//             </Link>
           </Stack>
           <ButtonGroup spacing="6">
             <Link href={'https://github.com/Dev-Alchemist'}>
